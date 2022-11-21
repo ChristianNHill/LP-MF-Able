@@ -20,8 +20,8 @@ If you have any questions, want to keep up with my work, or toss around ideas, p
 ## Repository contents
 
 * 🧰 [Bill of materials](./BOM/README.md) ;
-* 💻 [Code](./code) ;
-* 🖨️ [Enclosure files](./Enclosure_STLs/README.md).
+* 💻 [Code](./Code) ;
+* 🖨️ [Enclosure files](./Enclosure/README.md).
 
 👤 **Chris Hill**
 
