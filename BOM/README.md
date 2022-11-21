@@ -1,6 +1,6 @@
 # Supplies
 
-<img width="578" alt="Screen Shot 2022-11-21 at 6 10 37 AM" src="https://user-images.githubusercontent.com/22805894/203063618-048e02d4-487e-42ef-9218-898542eda62c.png">
+<img width="1072" alt="Screen Shot 2022-11-21 at 6 11 49 AM" src="https://user-images.githubusercontent.com/22805894/203063851-fa3e4b9d-ed52-4a68-b0d2-809723cf1a23.png">
 
 1x Arduino Nano (I Used the 33 BLE Version)
 
@@ -39,3 +39,4 @@
 1x Wearable Switch Extender 
 
 1x Finger Wearable
+
