@@ -1,4 +1,4 @@
-# AI Noise Light Painting Enclosure Files
+# Magnetic Field Light Painting Enclosure Files
 
 All Files were ordered using PCBWay. Also tested on a Prusa Mk3s printer.
 
