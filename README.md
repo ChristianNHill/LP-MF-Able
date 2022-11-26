@@ -1,19 +1,17 @@
 # Resolve-Ables: Visualize Magnetic Fields With a Light Painting Wearable
 
-[<img src="https://i.ytimg.com/an_webp/vNk0zY5JMzA/mqdefault_6s.webp?du=3000&sqp=CODn7ZsG&rs=AOn4CLA_pUs4neG8gdcdQU8i8Rrp9gFxVg" width="100%">](https://www.youtube.com/watch?v=vNk0zY5JMzA)
+[<img src="https://user-images.githubusercontent.com/22805894/204070150-2b8839a7-6098-4714-969c-4a60ba25d63a.jpg" width="100%">](https://www.youtube.com/watch?v=oveCwSwn4iQ)
 https://www.youtube.com/watch?v=vNk0zY5JMzA
 
 This repo contains all the files, code, designs, and materials to replicate this project. If I'm missing anything please let me know!
 
-Follow [this tutorial](https://www.instructables.com/Visualize-Magnetic-Fields-With-a-Light-Painting-We/) for step-by-step instruction on how to put it all together.
+Follow [this tutorial](https://www.instructables.com/Visualize-and-Hear-Ultrasonic-Frequencies-With-a-T/) for step-by-step instruction on how to put it all together.
 
 ## Introduction
 
-Ever since I got my first magnet implant, I've been obsessed with magnetic fields. I wanted a way to share the fields that I sense with other people. My idea is to visualize magnetic fields through a light painting wearable. When a magnetic field is detected with a GMR sensor, a NeoPixel stick will light up to represent the field strength, and when photographed using long exposure you can visualize different strengths of the field. The way the NeoPixels lights up can be reprogrammed to create several interesting effects (blinking, colors, number of pixels lit up, etc...) to create visually interesting combinations.
+Continuing my interest in wearable augmentations that visualize phenomena, I designed a "third ear" that enables you to listen and/or visualize ultrasonic frequencies. For perspective, the normal frequency range for humans is around 20Hz to 20kHz. We start with a max hearing of 20kHz as babies and as adults our hearing declines to around 17kHz. With this third ear, you can detect frequencies between 20kHz to 100kHz, enabling brand-new sensing of your environment. You can hear the frequencies in real-time with a pair of wired headphones, or you can visualize the phenomena with a p5.js script. The device can also enable new perspective-taking, as you can hear frequencies similar to your dog (40kHz), your cat (64kHz), or a bat (100kHz).
 
-In this GitHub repo you'll learn how to order, fabricate, program, and assemble your own light painting wearable to visualize magnetic fields. The functionality of the device is also pretty open-ended so that you can add different sensors or different types of Neopixels for more light painting possibilities!
-
-This project is partially sponsored by [PCBWay](https://www.pcbway.com/), who fabricated and shipped the PCB. They also 3D printed all the parts in this Instructable. I highly recommend the service, the quality/value is great!
+In this GitHub repo you'll learn how to order and assemble your own ultrasonic listening device. The device works by taking those ultrasonic frequencies (20kHz - 100kHz) and transforming them into a range that we can hear (20hz - 20kHz). The device can be altered to either listen to the frequencies in real-time, record them to a computer to create visualizations, or you can design new creative ways to represent the frequencies!
 
 If you have any questions, want to keep up with my work, or toss around ideas, please do so on my Twitter: [@4Eyes6Senses](https://twitter.com/4Eyes6Senses). Thanks!
 
